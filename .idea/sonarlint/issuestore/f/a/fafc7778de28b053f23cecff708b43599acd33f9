@@ -1,0 +1,8 @@
+
+g	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8ΛΎ¤κ1
+D
+java:S2189""Add an end condition to this loop.(ό§θ½ωÿÿÿÿ8ΛΎ¤κ1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8 ΛΎ¤κ1
+R
+java:S2446,"0"notify" may not wake up the appropriate thread.(©›Ζ­ϊÿÿÿÿ8ΞΊξ¤κ1

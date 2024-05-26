@@ -1,0 +1,7 @@
+
+7
+java:S1220""Move this file to a named package.8¸¤ä£ê1
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78¢šú¤ê1
+G	java:S106"+Replace this use of System.out by a logger.(ÜÚ©‚8ªÛñ¤ê1
+X	java:S125"<This block of commented-out lines of code should be removed.(¯·Ä±8€Çô¤ê1

@@ -1,0 +1,14 @@
+
+o
+java:S1192+"RDefine a constant instead of duplicating this literal "Topic dont exists" 3 times.(°úüï8Ÿ³ï£ê1
+j
+java:S3824I"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ÜÊñºùÿÿÿÿ8¬³ï£ê1
+j
+java:S38247"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ÜÊñºùÿÿÿÿ8¬³ï£ê1
+L	java:S106"+Replace this use of System.out by a logger.(Œš©üÿÿÿÿ8²³ï£ê1
+G	java:S106!"+Replace this use of System.out by a logger.(»ØÕ™8²³ï£ê1
+G	java:S106'"+Replace this use of System.out by a logger.(ñØ‹Ä8³³ï£ê1
+G	java:S106+"+Replace this use of System.out by a logger.(°úüï8³³ï£ê1
+G	java:S1063"+Replace this use of System.out by a logger.(°úüï8´³ï£ê1
+G	java:S106A"+Replace this use of System.out by a logger.(°úüï8¶³ï£ê1
+G	java:S106E"+Replace this use of System.out by a logger.(ñØ‹Ä8¶³ï£ê1
